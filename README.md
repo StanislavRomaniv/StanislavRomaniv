@@ -1,5 +1,5 @@
 ## 💫 About Me:
-💻 Front-end React.js developer <br>🔭 I’m currently working on commercial project Schöpfer AG<br>👯 I’m looking to collaborate with front-end developers<br>🌱 I’m currently learning Next.js and TypeScript<br>⚡ I’m fascinated by mountain bike riding
+💻 Front-end React.js developer <br>🔭 I’m currently working on commercial projects<br>👯 I’m looking to collaborate with front-end developers<br>🌱 I’m currently learning Node.js<br>⚡ I’m fascinated by mountain bike riding
 
 
 ## 🌐 How you can reach me:
